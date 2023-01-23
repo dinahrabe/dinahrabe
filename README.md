@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Dinah</h1>
 <h3 align="center">A passionate master student of Data Science for Public Policy</h3>
 
-- 🔭 I’m currently working on **my master thesis on: The Effect of Image Resolution in Remote Detection of Power Infrastructure**
+## 🔭 Current Work
+I’m currently working on **my Master Thesis on: The Effect of Image Resolution in Remote Detection of Power Infrastructure**
 
-- 🌱 **Current Status** I am currently finishing up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used to support and enhance policy making and can contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
+## 🌱 Current Status 
+I am currently finishing up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used to support and enhance policy making and can contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
 
-- 💻 Some projects
+## 💻 Some projects
 - [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): an analysis of Germanys Open Data Portal
 - [Why care about Adversarial Attacks](https://github.com/dinahrabe/invisible_women_project): A tutorial for policy makers
 - [How is AI discussed in Newspapers?](https://github.com/dinahrabe/invisible_women_project): A topic modelling and sentiment analysis of newspaper articles about AI
 
-- 💬 **Ask me about** Digitalisation and Digital Transformation of the Public Sector
+## 💬 Ask me about 
+Digitalisation and Digital Transformation of the Public Sector
 
-- 📫 **How to reach me:** dinah.rabe@googlemail.com
+## 📫 How to reach me
+dinah.rabe@googlemail.com
 
-- 📄 **My experiences**: I previously worked for two years as Member of the Management Board at the Cyber Innovation Hub, the Digital Innovation Unit of the German Federal Ministry of Defence. Since starting my Masters at the Hertie School I worked in several projects as a Research Associate e.g. on a study on innovation units and innovation ecosystem for the German Chancellery or in a project to support the city of Hamburg in their digital strategy process.
+## 📄 My professional experiences
+I previously worked for two years as Member of the Management Board at the Cyber Innovation Hub, the Digital Innovation Unit of the German Federal Ministry of Defence. Since starting my Masters at the Hertie School I worked in several projects as a Research Associate e.g. on a study on innovation units and innovation ecosystem for the German Chancellery or in a project to support the city of Hamburg in their digital strategy process. I did several internships in the public sector, public sector consulting and management consulting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
