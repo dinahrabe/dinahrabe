@@ -9,7 +9,7 @@
 
 - 📫 **How to reach me:** dinah.rabe@googlemail.com
 
-- 📄 **My experiences**: I previously worked for two years as Member of the Management Board at the Cyber Innovation Hub, the Digital Innovation Unit of the German Federal Ministry of Defence. Since starting my Masters at the Hertie School I worked in several projects as a Research Associate e.g. on a study on innovation units and innovation ecosystem for the German Chancellery or in a project to support the city of Hamburg in their digital strategy process.](I previously worked for two years as Member of the Management Board at the Cyber Innovation Hub, the Digital Innovation Unit of the German Federal Ministry of Defence. Since starting my Masters at the Hertie School I worked in several projects as a Research Associate e.g. on a study on innovation units and innovation ecosystem for the German Chancellery or in a project to support the city of Hamburg in their digital strategy process.)
+- 📄 **My experiences**: I previously worked for two years as Member of the Management Board at the Cyber Innovation Hub, the Digital Innovation Unit of the German Federal Ministry of Defence. Since starting my Masters at the Hertie School I worked in several projects as a Research Associate e.g. on a study on innovation units and innovation ecosystem for the German Chancellery or in a project to support the city of Hamburg in their digital strategy process.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
