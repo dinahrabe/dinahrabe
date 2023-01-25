@@ -10,7 +10,7 @@ I am currently finishing up my Masters in Data Science for Public Policy at the 
 ## 💻 Some projects
 - [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): an analysis of Germanys Open Data Portal
 - [Why care about Adversarial Attacks](https://github.com/dinahrabe/tutorial_adversarial_attacks): A tutorial for policy makers
-- [How is AI discussed in Newspapers?](https://github.com/dinahrabe/invisible_women_project): A topic modelling and sentiment analysis of newspaper articles about AI
+- [How is AI discussed in Newspapers?](https://github.com/dinahrabe/ai_perception): A topic modelling and sentiment analysis of newspaper articles about AI
 
 ## 💬 Ask me about 
 Digitalisation and Digital Transformation of the Public Sector
