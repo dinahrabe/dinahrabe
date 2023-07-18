@@ -11,6 +11,7 @@ I am currently finishing up my Masters in Data Science for Public Policy at the 
 - [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): an analysis of Germanys Open Data Portal
 - [Why care about Adversarial Attacks](https://github.com/dinahrabe/tutorial_adversarial_attacks): A tutorial for policy makers
 - [How is AI discussed in Newspapers?](https://github.com/dinahrabe/ai_perception): A topic modelling and sentiment analysis of newspaper articles about AI
+- [Automated Detection of Energy Infrastructure in Satellite Imagery](https://github.com/Hertie-Thesis-Halkenhaeusser-Rabe/Thesis-Code-Base): my Master Thesis for my MSc. Data Science for Public Policy
 
 ## 💬 Ask me about 
 Digitalisation and Digital Transformation of the Public Sector
