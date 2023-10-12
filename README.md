@@ -2,10 +2,10 @@
 <h3 align="center">A passionate master student of Data Science for Public Policy</h3>
 
 ## 🔭 Current Work
-I’m currently working on **my Master Thesis on: The Effect of Image Resolution in Remote Detection of Power Infrastructure**
+I’m currently working as **Research Associate at the Centre for Digital Governance at the Hertie School** on Digital Governance and the use of Data Science & AI in the public sector.
 
 ## 🌱 Current Status 
-I am currently finishing up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used to support and enhance policy making and can contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
+I just finished up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used responsibly ro contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. Currently, I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
 
 ## 💻 Some projects
 - [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): an analysis of Germanys Open Data Portal
@@ -13,8 +13,8 @@ I am currently finishing up my Masters in Data Science for Public Policy at the 
 - [How is AI discussed in Newspapers?](https://github.com/dinahrabe/ai_perception): A topic modelling and sentiment analysis of newspaper articles about AI
 - [Automated Detection of Energy Infrastructure in Satellite Imagery](https://github.com/Hertie-Thesis-Halkenhaeusser-Rabe/Thesis-Code-Base): my Master Thesis for my MSc. Data Science for Public Policy
 
-## 💬 Ask me about 
-Digitalisation and Digital Transformation of the Public Sector
+## 💬 Let's chat about 
+Digitalisation and Digital Transformation of the Public Sector, Responsible AI, Data Science for the Common Good
 
 ## 📫 How to reach me
 dinah.rabe@googlemail.com
