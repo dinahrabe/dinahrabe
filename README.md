@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinah</h1>
-<h3 align="center">A passionate master student of Data Science for Public Policy</h3>
+<h3 align="center">Passionate about Data Science for The Common Good</h3>
 
 ## 🔭 Current Work
 I’m currently working as **Research Associate at the Centre for Digital Governance at the Hertie School** on Digital Governance and the use of Data Science & AI in the public sector.
