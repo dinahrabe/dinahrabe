@@ -8,10 +8,10 @@ I’m currently working as **Research Associate at the Centre for Digital Govern
 I just finished up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used responsibly ro contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. Currently, I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
 
 ## 💻 Some projects
-- [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): an analysis of Germanys Open Data Portal
-- [Why care about Adversarial Attacks](https://github.com/dinahrabe/tutorial_adversarial_attacks): A tutorial for policy makers
-- [How is AI discussed in Newspapers?](https://github.com/dinahrabe/ai_perception): A topic modelling and sentiment analysis of newspaper articles about AI
 - [Automated Detection of Energy Infrastructure in Satellite Imagery](https://github.com/Hertie-Thesis-Halkenhaeusser-Rabe/Thesis-Code-Base): my Master Thesis for my MSc. Data Science for Public Policy
+- [Why care about Adversarial Attacks](https://github.com/dinahrabe/tutorial_adversarial_attacks): A tutorial for policy makers
+- [Where are the Women?](https://github.com/dinahrabe/invisible_women_project): An analysis of Germanys Open Data Portal and its potential gender bias
+- [How is AI discussed in Newspapers?](https://github.com/dinahrabe/ai_perception): A topic modelling and sentiment analysis of newspaper articles about AI
 
 ## 💬 Let's chat about 
 Digitalisation and Digital Transformation of the Public Sector, Responsible AI, Data Science for the Common Good
