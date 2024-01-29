@@ -2,10 +2,10 @@
 <h3 align="center">Passionate about Data Science for the Common Good</h3>
 
 ## 🔭 Current Work
-I’m currently working as **Research Associate at the Centre for Digital Governance at the Hertie School** on Digital Governance and the use of Data Science & AI in the public sector. Further I work as **AI Auditor** for the Responsible AI company BABL AI.
+I’m currently working as **Research Associate at the Centre for Digital Governance at the Hertie School** on Digital Governance and the use of Data Science & AI in the public sector. Further, I work as **AI Auditor** for the Responsible AI company BABL AI.
 
 ## 🌱 Current Status 
-I just finished up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany. I am curious about the various ways how data science methods can be used responsibly ro contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. Currently, I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository.
+I finished up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany in summer 2023. I am curious about the various ways how data science methods can be used responsibly ro contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository. Currently, I am developing a deep knowledge on how to actually run AI bias audits in practice through conducting bias audits for NYC LL144 with BABL AI.
 
 ## 💻 Some projects
 - [Automated Detection of Energy Infrastructure in Satellite Imagery](https://github.com/Hertie-Thesis-Halkenhaeusser-Rabe/Thesis-Code-Base): my Master Thesis for my MSc. Data Science for Public Policy
