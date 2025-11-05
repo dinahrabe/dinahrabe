@@ -2,7 +2,7 @@
 <h3 align="center">Prioritizing Human Flourishing in the Age of AI</h3>
 
 ## 🔭 Current Work
-I’m currently working as **European Market Lead for AI audit and assurance for BABLI AI**. A few times a year I am teaching German public servants as **External Lecturer for AI and Data Science at the Hertie School** in Berlin.
+I’m currently working as **European Market Lead for AI audit and assurance for BABL AI**. A few times a year I am teaching German public servants as **External Lecturer for AI and Data Science at the Hertie School** in Berlin.
 
 ## 🌱 Current Status 
 I finished up my Masters in Data Science for Public Policy at the Hertie School of Governance in Berlin, Germany in summer 2023. I am curious about the various ways how data science methods can be used responsibly ro contribute to the common good. Next to the "purely" technical aspects, I am interested in related societal questions of bias, fairness and regulation. I gained my first practical experiences in data science through various projects that I did during my studies in courses like Introduction to Data Science, Machine Learning, Deep Learning or Text as Data, these are the ones that you also find in this repository. Currently, I am developing methodology to run AI bias and performance audits that actually are connected to the socio-technical context of the systems. 
