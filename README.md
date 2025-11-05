@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinah</h1>
-<h3 align="center">Passionate about Data Science for the Common Good</h3>
+<h3 align="center">Prioritizing Human Flourishing in the Age of AI</h3>
 
 ## 🔭 Current Work
 I’m currently working as **European Market Lead for AI audit and assurance for BABLI AI**. A few times a year I am teaching German public servants as **External Lecturer for AI and Data Science at the Hertie School** in Berlin.
